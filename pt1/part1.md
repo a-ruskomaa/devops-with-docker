@@ -154,3 +154,11 @@ $ docker run -p 8080:8080 example-backend
 ```
 $ docker run -p 5000:5000 example-frontend
 ```
+
+## 1.15: Homework
+
+Skipped
+
+## 1.16: Heroku
+
+[Deployed application](https://docker-example-412345.herokuapp.com/)
