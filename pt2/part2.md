@@ -48,4 +48,4 @@ docker-compose up --scale compute=3 -d
 
 [Dockerfile (backend](./2.10/example-backend/Dockerfile)
 
-To make things work, I had to change the env variables in both dockerfiles. Since the react backend url defaults tp /api, I simply commented out the env variable.
+To make things work, I had to change the env variables in both dockerfiles. Since the react backend url defaults to /api, I simply commented out the env variable.
